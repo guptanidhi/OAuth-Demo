@@ -1,0 +1,24 @@
+body {
+  padding: 30px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+button {
+	height: 3em;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#github {
+ background-color: #7ED062;
+ color: white;
+}
+
+#facebook {
+	background-color: #3B579D;
+}
